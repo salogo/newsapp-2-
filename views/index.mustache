@@ -1,0 +1,46 @@
+
+<html>
+<head>
+
+  {{> header}}
+
+</head>
+
+<body>
+    <div id="topic">
+        <h1> Your Favorite Articles !</h1>
+    </div>
+
+<div id="pageBody">
+  <div class="container">
+
+  {{> menu}}
+
+  <div class="list-group">
+    {{#articles}}
+
+    
+     <ul>
+    <div class="d-flex w-100 justify-content-between">
+
+     <div id="titleBox">
+     
+   <li>   <h5 class="mb-1"><b>Title : </b> {{title}}</h5> </li>
+     </div>
+
+    </div>
+     <div id="bodyBox"> <p class="mb-1">{{body}}</p> </div>
+           {{datecreated}}
+    </ul>
+    {{/articles}}
+    
+
+  </div>
+
+</div>
+
+  {{> footer}}
+
+</div>
+</body>
+</html>

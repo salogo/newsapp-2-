@@ -1,0 +1,57 @@
+#topic {
+  width: 2px;
+  height: 20px;
+  
+}
+#pageBody {
+  background-color: #f4f4f4;
+}
+
+.article-action-button {
+  display:flex;
+}
+#registration {
+  font: 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #404040;
+  background: #f4f4f4;
+}
+ 
+#usernamePasswordbox{
+  margin: 10 auto;
+  width: 230px;
+  padding: 20px;
+  background: #f4f4f4;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+.submitButton {
+  background-color: #f4f4f4;
+}
+.register-title {
+  width: 190px;
+  line-height: 43px;
+  margin: 50px auto 20px;
+  font-size: 19px;
+  font-weight: 500;
+  color: white;
+  color: rgba(255, 255, 255, 0.95);
+  text-align: center;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+  background: #d7604b;
+  border-radius: 3px;
+  background-image: -webkit-linear-gradient(top, #dc745e, #d45742);
+  background-image: -moz-linear-gradient(top, #dc745e, #d45742);
+  background-image: -o-linear-gradient(top, #dc745e, #d45742);
+  background-image: linear-gradient(to bottom, #dc745e, #d45742);
+  -webkit-box-shadow: inset 0 1px rgba(255, 255, 255, 0.1), inset 0 0 0 1px rgba(255, 255, 255, 0.05), 0 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3);
+  box-shadow: inset 0 1px rgba(255, 255, 255, 0.1), inset 0 0 0 1px rgba(255, 255, 255, 0.05), 0 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+#titleBox{
+  border: 20px 20px 20px 20px ;
+  background-color: orange;
+}
+#bodyBox {
+  background-color: bisque;
+}
