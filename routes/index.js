@@ -16,9 +16,6 @@ router.get('/',(req,res) => {
 
 })
 
-router.get("/hello",(req,res,next) =>{
-  res.send("Hello World ")
-})
 
 router.get('/logout',(req,res,next) => {
 
