@@ -39,6 +39,7 @@ app.use((req,res,next) => {
 
 db = pgp(CONNECTION_STRING)
 
+
 // setup routes
 app.use('/',indexRoutes)
 app.use('/users',checkAuthorization,userRoutes)

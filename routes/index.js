@@ -16,6 +16,9 @@ router.get('/',(req,res) => {
 
 })
 
+router.get('/hello',(req,res,next) => {
+  res.send('hello worl')
+})
 
 router.get('/logout',(req,res,next) => {
 
