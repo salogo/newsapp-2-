@@ -13,7 +13,8 @@ const indexRoutes = require('./routes/index')
 
 const PORT = process.env.PORT || 8080
 const CONNECTION_STRING = "postgres://cdzieasdzhwgaa:854b0a8c0d5581173965d56121f060dd78e87dacc5302c1766b6e693d52a4187@ec2-34-194-198-176.compute-1.amazonaws.com:5432/d6r1lk929tnkbc"
-
+//const PORT = 3000
+//const CONNECTION_STRING = ""
 const VIEWS_PATH = path.join(__dirname,'/views')
 
 // configuring your view engine
