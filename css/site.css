@@ -20,6 +20,7 @@
   margin: 10 auto;
   width: 240px;
   padding: 20px;
+  text-align: center;
   background: #f4f4f4;
   border-radius: 3px;
   -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3);
@@ -57,5 +58,5 @@
   background-color: bisque;
 }
 .smal {
-  width: 218px;
+  width: 210px;
 }
