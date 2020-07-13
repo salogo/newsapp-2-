@@ -28,6 +28,7 @@
 .submitButton {
   background-color: #f4f4f4;
 }
+
 .register-title {
   width: 190px;
   line-height: 43px;
@@ -54,4 +55,7 @@
 }
 #bodyBox {
   background-color: bisque;
+}
+.smal {
+  width: 218px;
 }
