@@ -19,7 +19,7 @@
 #usernamePasswordbox{
   margin: 10 auto;
   width: 240px;
-  
+  padding: 5px;
   text-align: center;
   background: #f4f4f4;
   border-radius: 3px;
