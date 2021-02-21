@@ -5,12 +5,10 @@ Built with node.js, express.js, pg-promise, PostgreSQL, Postico , CSS, Bootstrap
 
 #
 
-![image](https://user-images.githubusercontent.com/54459398/88718400-87a54700-d0e7-11ea-880b-b5a2db30ccb5.png)
-
-#
-
-Project Link : https://arcane-eyrie-17745.herokuapp.com/register
+Project live : : https://arcane-eyrie-17745.herokuapp.com/register
 
 #
 
 https://youtu.be/7uCwVGrkPtY
+#
+![image](https://user-images.githubusercontent.com/54459398/88718400-87a54700-d0e7-11ea-880b-b5a2db30ccb5.png)
