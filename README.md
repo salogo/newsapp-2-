@@ -1,7 +1,7 @@
 # newsapp-2-
 Users are able to register , sign in , write a article , read , update, edit, delete, and view all the articles The password is encrypted , and all datas are saved into the remote database.
 
-Built with node.js, express.js, pg-promise, PostgreSQL, Postico , CSS, Bootstrap, JavaScript
+Built with node.js, express.js, pg-promise, PostgreSQL, Postico , CSS, Bootstrap, JavaScript, mustache-express, express-session, bcryptjs
 
 #
 
