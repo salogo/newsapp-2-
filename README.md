@@ -5,7 +5,7 @@ Built with node.js, express.js, pg-promise, PostgreSQL, Postico , CSS, Bootstrap
 
 #
 
-Project live : : https://arcane-eyrie-17745.herokuapp.com/register
+Live : : https://arcane-eyrie-17745.herokuapp.com/register
 
 #
 
